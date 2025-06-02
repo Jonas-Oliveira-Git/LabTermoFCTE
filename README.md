@@ -7,6 +7,8 @@ Seja bem-vindo ao repositório oficial do **Laboratório de Termofluidos** da **
 
 [Acesse a pasta do  CP1000](https://github.com/Jonas-Oliveira-Git/LabTermoFCTE/tree/main/CP1000)
 
+![Texto alternativo](https://github.com/Jonas-Oliveira-Git/LabTermoFCTE/blob/main/CP1000/FIG-CP1000/cp100-visao-frontal.jpg)
+
 
 [Acesse a pasta do Túnel de Vento](https://github.com/Jonas-Oliveira-Git/LabTermoFCTE/tree/main/HD98B_Lab_Hidraulica)
 
