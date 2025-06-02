@@ -15,10 +15,15 @@ Seja bem-vindo ao repositório oficial do **Laboratório de Termofluidos** da **
 
 [Acesse a pasta do Túnel de Vento](https://github.com/Jonas-Oliveira-Git/LabTermoFCTE/tree/main/HD98B_Lab_Hidraulica)
 
+<img src="https://github.com/Jonas-Oliveira-Git/LabTermoFCTE/raw/main/TunelVento/FIG-Tunel_Vento/tunelvento-foto.jpg" alt="Foto do Túnel de Vento" width="400"/>
+
+
 
 ### HD98B Lab Hidraulica
 
 [Acesse a pasta da HD98B Lab Hidraulica](https://github.com/Jonas-Oliveira-Git/LabTermoFCTE/tree/main/TunelVento)
+
+<img src="https://github.com/Jonas-Oliveira-Git/LabTermoFCTE/raw/main/HD98B_Lab_Hidraulica/FIG-HD98B_Lab_Hidraulica/HD98B-Foto.jpg" alt="Foto do equipamento HD98B" width="400"/>
 
 
 
