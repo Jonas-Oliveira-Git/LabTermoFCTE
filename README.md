@@ -13,7 +13,7 @@ Seja bem-vindo ao repositório oficial do **Laboratório de Termofluidos** da **
 ### Túnel de Vento
 
 
-[Acesse a pasta do Túnel de Vento](https://github.com/Jonas-Oliveira-Git/LabTermoFCTE/tree/main/HD98B_Lab_Hidraulica)
+[Acesse a pasta do Túnel de Vento](https://github.com/Jonas-Oliveira-Git/LabTermoFCTE/tree/main/TunelVento)
 
 <img src="https://github.com/Jonas-Oliveira-Git/LabTermoFCTE/raw/main/TunelVento/FIG-Tunel_Vento/tunelvento-foto.jpg" alt="Foto do Túnel de Vento" width="400"/>
 
