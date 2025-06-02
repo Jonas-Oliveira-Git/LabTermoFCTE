@@ -21,7 +21,7 @@ Seja bem-vindo ao repositório oficial do **Laboratório de Termofluidos** da **
 
 ### HD98B Lab Hidraulica
 
-[Acesse a pasta da HD98B Lab Hidraulica](https://github.com/Jonas-Oliveira-Git/LabTermoFCTE/tree/main/TunelVento)
+[Acesse a pasta da HD98B Lab Hidraulica](https://github.com/Jonas-Oliveira-Git/LabTermoFCTE/tree/main/HD98B_Lab_Hidraulica)
 
 <img src="https://github.com/Jonas-Oliveira-Git/LabTermoFCTE/raw/main/HD98B_Lab_Hidraulica/FIG-HD98B_Lab_Hidraulica/HD98B-Foto.jpg" alt="Foto do equipamento HD98B" width="400"/>
 
