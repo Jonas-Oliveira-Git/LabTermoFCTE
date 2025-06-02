@@ -30,7 +30,7 @@ Seja bem-vindo ao repositório oficial do **Laboratório de Termofluidos** da **
 ### Horizon Renewable Energy Science Education Set
 
 
-[Acesse a pasta do  Horizon Renewable](https://github.com/Jonas-Oliveira-Git/LabTermoFCTE/tree/main/TunelVento)
+[Acesse a pasta do  Horizon Renewable](https://github.com/Jonas-Oliveira-Git/LabTermoFCTE/tree/main/HorizonSet)
 
 <img src="https://github.com/Jonas-Oliveira-Git/LabTermoFCTE/raw/main/HorizonSet/FIG-HorizonSet/horizon.jpg" alt="Imagem HorizonSet" width="400"/>
 
