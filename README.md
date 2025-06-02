@@ -3,7 +3,7 @@
 Seja bem-vindo ao repositório oficial do **Laboratório de Termofluidos** da **Universidade de Brasília – Campus FCTE**. Este espaço tem como finalidade organizar, documentar e disponibilizar os materiais didáticos e técnicos relacionados às atividades experimentais conduzidas no âmbito do laboratório.
 
 
-## Experimentos Disponibilizados
+## Equipamentos e Experimentos Documentados
 
 ### CP1000
 [Acesse a pasta do  CP1000](https://github.com/Jonas-Oliveira-Git/LabTermoFCTE/tree/main/CP1000)
